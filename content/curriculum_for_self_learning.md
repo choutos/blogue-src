@@ -59,8 +59,8 @@ I tried to tackle courses and books one by one, from start to finish, but this s
 Another method I use is splitting courses or book chapters in small sessions or projects of ~1-3 hours. In this way I have more manageable chunks of work and I am more willing to start something new. This also helps with the previous step of combining different resources.<br/><br/>
 You can use whatever you want to keep track of your progress. Personally I have a board in Trello to have a quick overview of my progress, check what is pending and quickly find something to work on next. My workflow is quite simple:
 
-1. I add interesting content I found to my 'Backlog'.
-2. I create small pieces of work based on the resources from step 1, and put them in the 'To Do' column. Ideally they should take between 1 and 3 hours to finish. If it takes longer, chances are that I will not pick the task soon and will be in 'To Do' for a long time.
+1. I add interesting content I find to my 'Backlog'.
+2. Then I create small pieces of work based on the resources from step 1, and put them in the 'To Do' column. Ideally they should take between 1 and 3 hours to finish. If it takes longer, chances are that I will not pick the task soon and will be in 'To Do' for a long time.
 3. Now I just have to pick an item from 'To Do', transition it to 'In Progress', work on it and finally move it to 'Done' (and celebrate!)
 
-![My Learning Board]({filename}/images/trello_capture001.png)
+![My Learning Board]({static}/images/trello_capture001.png)

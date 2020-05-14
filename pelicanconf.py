@@ -7,7 +7,7 @@ SITENAME = 'choutos'
 SITEURL = ''
 
 PATH = 'content'
-STATIC_PATHS ='images'
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Vienna'
 
