@@ -19,40 +19,52 @@ After deciding to pursue a degree in Artificial Intelligence, and with my never-
 
 ### Maths
 Courses:<br/>
-[x] [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) _by Duke University_  
+[x] [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) by_ Duke University_  
   
 ### Python
 Courses:<br/>
-[x] [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) _by University of Michigan_<br/>
-[x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) _by University of Michigan_<br/>
-[ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) _by University of Michigan_<br/>
+[x] [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) by_ University of Michigan_<br/>
+[x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) by_ University of Michigan_<br/>
+[ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) by_ University of Michigan_<br/>
+[ ] [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/projects/data-science-streamlit-python) by_ rhyme_<br/>
   
 ### Artificial Intelligence
 Courses:<br/>
-[ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) _by deeplearning.ai_<br/>
-[ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) _by deeplearning.ai_<br/>
-[ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) _by deeplearning.ai_<br/>
-[ ] [Practical Deep Learning for Coders](https://course.fast.ai/) _by fast.ai_  
-[ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) _by deeplearning.ai_<br/>
+[x] [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome) by_ deeplearning.ar_<br/>
+[ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) by_ deeplearning.ai_<br/>
+[ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) by_ deeplearning.ai_<br/>
+[ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) by_ deeplearning.ai_<br/>
+[ ] [Practical Deep Learning for Coders](https://course.fast.ai/) by_ fast.ai_  
+[ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) by_ deeplearning.ai_<br/>
+[ ] [Machine Learning](https://www.coursera.org/learn/machine-learning/) by_ Stanford University_<br/>
 <br/>Books:<br/>
-[ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) _by [Michael Nielsen](http://michaelnielsen.org/)_<br/>
-[ ] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) _by Andriy Burkov_  
-[ ] [Artificial Intelligence, A Modern Approach](http://aima.cs.berkeley.edu/) _by [Stuart Russell](http://www.cs.berkeley.edu/~russell) and [Peter Norvig](http://www.norvig.com/)_<br/>
+[ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by_ [Michael Nielsen](http://michaelnielsen.org/)_<br/>
+[ ] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) by_ Andriy Burkov_  
+[ ] [Artificial Intelligence, A Modern Approach](http://aima.cs.berkeley.edu/) by_ [Stuart Russell](http://www.cs.berkeley.edu/~russell) and [Peter Norvig](http://www.norvig.com/)_<br/>
+[ ] [Deep Medicine](https://drerictopol.com/portfolio/deep-medicine/) by _Eric Topol_<br/>
 <br/>Videos:<br/>
-[x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) _by Keith Galli_<br/>
+[x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) by_ Keith Galli_<br/>
+
+### Data Engineering
+[ ] [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
+[ ] [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
+[ ] [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
+[ ] [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
+[ ] [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) by_ Google Cloud_<br/>
+[ ] [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) by_ Google Cloud_<br/>
   
 ### Research
 Courses:<br/>
-[x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) _by École Polytechnique_<br/>
+[x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) by_ École Polytechnique_<br/>
 <br/>Books:<br/>
-[ ] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) _by Michael Nielsen_<br/>
+[ ] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) by_ Michael Nielsen_<br/>
 
 ### Misc
 Courses:<br/>
-[ ] [Mountains 101](https://www.coursera.org/learn/mountains-101) _by University of Alberta_<br/>
-[ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) _by McMaster University & University of California San Diego_<br/>
+[ ] [Mountains 101](https://www.coursera.org/learn/mountains-101) by_ University of Alberta_<br/>
+[ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) by_ McMaster University & University of California San Diego_<br/>
 <br/>Books:<br/>
-[x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) _by Jason Fried and David Heinemeier Hansson_<br/>
+[x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by_ Jason Fried and David Heinemeier Hansson_<br/>
 
 
 ## How I keep track?
@@ -60,7 +72,7 @@ I tried to tackle courses and books one by one, from start to finish, but this s
 Another method I use is splitting courses or book chapters in small sessions or projects of ~1-3 hours. In this way I have more manageable chunks of work and I am more willing to start something new. This also helps with the previous step of combining different resources.<br/><br/>
 You can use whatever you want to keep track of your progress. Personally I have a board in Trello to have a quick overview of my progress, check what is pending and quickly find something to work on next. My workflow is quite simple:
 
-1. I add interesting content I find to my 'Backlog'.
+1. Every time I find interesting content, I added either to my Zotero library or directly to my 'Backlog' in Trello.
 2. Then I create small pieces of work based on the resources from step 1, and put them in the 'To Do' column. Ideally they should take between 1 and 3 hours to finish. If it takes longer, chances are that I will not pick the task soon and will be in 'To Do' for a long time.
 3. Now I just have to pick an item from 'To Do', transition it to 'In Progress', work on it and finally move it to 'Done' (and celebrate!)
 
