@@ -53,6 +53,12 @@ Courses:<br/>
 [ ] [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) by _Google Cloud_<br/>
 [ ] [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) by _Google Cloud_<br/>
   
+### Functional Programming
+Courses:<br/>
+[ ] [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session04/about) by _Université Paris Diderot_<br/>
+<br/>Books:<br/>
+[ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) by _Harold Abelson, Gerald Jay Sussman, Julie Sussman_<br/>
+
 ### Research
 Courses:<br/>
 [x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) by _École Polytechnique_<br/>
