@@ -18,36 +18,37 @@ After deciding to pursue a degree in Artificial Intelligence, and with my never-
 
 
 ### Maths
+Courses:<br/>
 [x] [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) _by Duke University_  
   
 ### Python
-#### Courses
-[x] [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) _by University of Michigan_  
-[x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) _by University of Michigan_  
-[ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) _by University of Michigan_  
+Courses:<br/>
+[x] [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) _by University of Michigan_<br/>
+[x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) _by University of Michigan_<br/>
+[ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) _by University of Michigan_<br/>
   
 ### ML & Deep Learning
-#### Courses
-[ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) _by deeplearning.ai_  
-[ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) _by deeplearning.ai_  
-[ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) _by deeplearning.ai_  
+Courses:<br/>
+[ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) _by deeplearning.ai_<br/>
+[ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) _by deeplearning.ai_<br/>
+[ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) _by deeplearning.ai_<br/>
 [ ] [Practical Deep Learning for Coders](https://course.fast.ai/) _by fast.ai_  
-[ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) _by deeplearning.ai_  
-#### Books
-[ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) _by [Michael Nielsen](http://michaelnielsen.org/)_ 
+[ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) _by deeplearning.ai_<br/>
+<br/>Books:<br/>
+[ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) _by [Michael Nielsen](http://michaelnielsen.org/)_<br/>
 [ ] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) _by Andriy Burkov_  
-#### Videos
-[x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) _by Keith Galli_  
+<br/>Videos:<br/>
+[x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) _by Keith Galli_<br/>
   
 ### Research
-#### Courses
-[x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) _by École Polytechnique_  
-#### Books
-[ ] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) _by Michael Nielsen_  
+Courses:<br/>
+[x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) _by École Polytechnique_<br/>
+<br/>Books:<br/>
+[ ] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) _by Michael Nielsen_<br/>
 
 ### Misc
-#### Courses
-[ ] [Mountains 101](https://www.coursera.org/learn/mountains-101) _by University of Alberta_  
-[ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) _by McMaster University & University of California San Diego_  
-#### Books
-[x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) _by Jason Fried and David Heinemeier Hansson_  
+Courses:<br/>
+[ ] [Mountains 101](https://www.coursera.org/learn/mountains-101) _by University of Alberta_<br/>
+[ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) _by McMaster University & University of California San Diego_<br/>
+<br/>Books:<br/>
+[x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) _by Jason Fried and David Heinemeier Hansson_<br/>
