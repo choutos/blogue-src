@@ -19,52 +19,52 @@ After deciding to pursue a degree in Artificial Intelligence, and with my never-
 
 ### Maths
 Courses:<br/>
-[x] [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) by_ Duke University_  
+[x] [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) by _Duke University_  
   
 ### Python
 Courses:<br/>
-[x] [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) by_ University of Michigan_<br/>
-[x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) by_ University of Michigan_<br/>
-[ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) by_ University of Michigan_<br/>
-[ ] [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/projects/data-science-streamlit-python) by_ rhyme_<br/>
+[x] [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) by _University of Michigan_<br/>
+[x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) by _University of Michigan_<br/>
+[ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) by _University of Michigan_<br/>
+[ ] [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/projects/data-science-streamlit-python) by _rhyme_<br/>
   
 ### Artificial Intelligence
 Courses:<br/>
-[x] [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome) by_ deeplearning.ar_<br/>
-[ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) by_ deeplearning.ai_<br/>
-[ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) by_ deeplearning.ai_<br/>
-[ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) by_ deeplearning.ai_<br/>
-[ ] [Practical Deep Learning for Coders](https://course.fast.ai/) by_ fast.ai_  
-[ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) by_ deeplearning.ai_<br/>
-[ ] [Machine Learning](https://www.coursera.org/learn/machine-learning/) by_ Stanford University_<br/>
+[x] [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome) by _deeplearning.ai_<br/>
+[ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) by _deeplearning.ai_<br/>
+[ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) by _deeplearning.ai_<br/>
+[ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) by _deeplearning.ai_<br/>
+[ ] [Practical Deep Learning for Coders](https://course.fast.ai/) by _fast.ai_  
+[ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) by _deeplearning.ai_<br/>
+[ ] [Machine Learning](https://www.coursera.org/learn/machine-learning/) by _Stanford University_<br/>
 <br/>Books:<br/>
-[ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by_ [Michael Nielsen](http://michaelnielsen.org/)_<br/>
-[ ] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) by_ Andriy Burkov_  
-[ ] [Artificial Intelligence, A Modern Approach](http://aima.cs.berkeley.edu/) by_ [Stuart Russell](http://www.cs.berkeley.edu/~russell) and [Peter Norvig](http://www.norvig.com/)_<br/>
+[ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by _[Michael Nielsen](http://michaelnielsen.org/)_<br/>
+[ ] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) by _Andriy Burkov_  
+[ ] [Artificial Intelligence, A Modern Approach](http://aima.cs.berkeley.edu/) by _[Stuart Russell](http://www.cs.berkeley.edu/~russell) and [Peter Norvig](http://www.norvig.com/)_<br/>
 [ ] [Deep Medicine](https://drerictopol.com/portfolio/deep-medicine/) by _Eric Topol_<br/>
 <br/>Videos:<br/>
-[x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) by_ Keith Galli_<br/>
+[x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) by _Keith Galli_<br/>
 
 ### Data Engineering
-[ ] [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
-[ ] [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
-[ ] [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
-[ ] [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-engineering) by_ Google Cloud_<br/>
-[ ] [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) by_ Google Cloud_<br/>
-[ ] [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) by_ Google Cloud_<br/>
+[ ] [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering) by _Google Cloud_<br/>
+[ ] [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-engineering) by _Google Cloud_<br/>
+[ ] [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-engineering) by _Google Cloud_<br/>
+[ ] [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-engineering) by _Google Cloud_<br/>
+[ ] [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) by _Google Cloud_<br/>
+[ ] [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) by _Google Cloud_<br/>
   
 ### Research
 Courses:<br/>
-[x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) by_ École Polytechnique_<br/>
+[x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) by _École Polytechnique_<br/>
 <br/>Books:<br/>
-[ ] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) by_ Michael Nielsen_<br/>
+[ ] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) by _Michael Nielsen_<br/>
 
 ### Misc
 Courses:<br/>
-[ ] [Mountains 101](https://www.coursera.org/learn/mountains-101) by_ University of Alberta_<br/>
-[ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) by_ McMaster University & University of California San Diego_<br/>
+[ ] [Mountains 101](https://www.coursera.org/learn/mountains-101) by _University of Alberta_<br/>
+[ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) by _McMaster University & University of California San Diego_<br/>
 <br/>Books:<br/>
-[x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by_ Jason Fried and David Heinemeier Hansson_<br/>
+[x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) by _Jason Fried and David Heinemeier Hansson_<br/>
 
 
 ## How I keep track?
