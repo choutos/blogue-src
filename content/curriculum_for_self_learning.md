@@ -27,7 +27,7 @@ Courses:<br/>
 [x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) _by University of Michigan_<br/>
 [ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) _by University of Michigan_<br/>
   
-### ML & Deep Learning
+### Artificial Intelligence
 Courses:<br/>
 [ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) _by deeplearning.ai_<br/>
 [ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) _by deeplearning.ai_<br/>
@@ -37,6 +37,7 @@ Courses:<br/>
 <br/>Books:<br/>
 [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) _by [Michael Nielsen](http://michaelnielsen.org/)_<br/>
 [ ] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) _by Andriy Burkov_  
+[ ] [Artificial Intelligence, A Modern Approach](http://aima.cs.berkeley.edu/) _by [Stuart Russell](http://www.cs.berkeley.edu/~russell) and [Peter Norvig](http://www.norvig.com/)_<br/>
 <br/>Videos:<br/>
 [x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) _by Keith Galli_<br/>
   
