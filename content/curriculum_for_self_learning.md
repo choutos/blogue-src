@@ -52,3 +52,15 @@ Courses:<br/>
 [ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) _by McMaster University & University of California San Diego_<br/>
 <br/>Books:<br/>
 [x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) _by Jason Fried and David Heinemeier Hansson_<br/>
+
+
+## How I keep track?
+I tried to tackle courses and books one by one, from start to finish, but this strategy didn't work very well for me. What I do now instead is try to mix different resources, I found that sometimes they reinforce each other and I can learn better. For example, Michael Nielsen's 'NN and DL' book is a great complement for the fast.ai course. And both have common topics with any other Machine Learning or Deep Learning course. It is also a good way to avoid getting stuck or getting bored.<br/><br/>
+Another method I use is splitting courses or book chapters in small sessions or projects of ~1-3 hours. In this way I have more manageable chunks of work and I am more willing to start something new. This also helps with the previous step of combining different resources.<br/><br/>
+You can use whatever you want to keep track of your progress. Personally I have a board in Trello to have a quick overview of my progress, check what is pending and quickly find something to work on next. My workflow is quite simple:
+
+1. I add interesting content I found to my 'Backlog'.
+2. I create small pieces of work based on the resources from step 1, and put them in the 'To Do' column. Ideally they should take between 1 and 3 hours to finish. If it takes longer, chances are that I will not pick the task soon and will be in 'To Do' for a long time.
+3. Now I just have to pick an item from 'To Do', transition it to 'In Progress', work on it and finally move it to 'Done' (and celebrate!)
+
+![My Learning Board]({filename}/images/trello_capture001.png)
