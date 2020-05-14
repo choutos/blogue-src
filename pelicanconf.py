@@ -19,9 +19,15 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+CC_LICENSE = {
+    "name": "Creative Commons Attribution-ShareAlike",
+    "version": "4.0",
+    "slug": "by-sa"
+}
+
 # Blogroll
-LINKS = (('Linkedin', 'https://www.linkedin.com/in/victor-andrade-a020a415/'),
-         ('Twitter', 'https://twitter.com/choutos'),)
+#LINKS = (('Linkedin', 'https://www.linkedin.com/in/victor-andrade-a020a415/'),
+#         ('Twitter', 'https://twitter.com/choutos'),)
 #         ('Twitter', 'https://twitter.com/choutos'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
@@ -29,6 +35,11 @@ LINKS = (('Linkedin', 'https://www.linkedin.com/in/victor-andrade-a020a415/'),
 # Social widget
 #SOCIAL = (('Linkedin', 'https://www.linkedin.com/in/victor-andrade-a020a415/'),
 #          ('Another social link', '#'),)
+SOCIAL = (
+    ('linkedin', 'https://www.linkedin.com/in/victor-andrade-a020a415/'),
+    ('twitter', 'https://twitter.com/choutos'),
+    ('github', 'https://github.com/choutos'),
+)
 
 DEFAULT_PAGINATION = False
 
