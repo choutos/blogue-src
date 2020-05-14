@@ -24,18 +24,18 @@ After deciding to pursue a degree in Artificial Intelligence, and with my never-
 #### Courses
 [x] [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) _by University of Michigan_  
 [x] [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) _by University of Michigan_  
-[_] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) _by University of Michigan_  
+[ ] [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) _by University of Michigan_  
   
 ### ML & Deep Learning
 #### Courses
-[_] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) _by deeplearning.ai_  
-[_] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) _by deeplearning.ai_  
-[_] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) _by deeplearning.ai_  
-[_] [Practical Deep Learning for Coders](https://course.fast.ai/) _by fast.ai_  
-[_] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) _by deeplearning.ai_  
+[ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) _by deeplearning.ai_  
+[ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) _by deeplearning.ai_  
+[ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) _by deeplearning.ai_  
+[ ] [Practical Deep Learning for Coders](https://course.fast.ai/) _by fast.ai_  
+[ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) _by deeplearning.ai_  
 #### Books
-[_] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) _by [Michael Nielsen](http://michaelnielsen.org/)_ 
-[_] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) _by Andriy Burkov_  
+[ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) _by [Michael Nielsen](http://michaelnielsen.org/)_ 
+[ ] [The Hundred-Page Machine Learning Book](themlbook.com/wiki) _by Andriy Burkov_  
 #### Videos
 [x] [Introduction to Neural Networks in Python (what you need to know) | Tensorflow/Keras](https://www.youtube.com/watch?v=aBIGJeHRZLQ) _by Keith Galli_  
   
@@ -43,11 +43,11 @@ After deciding to pursue a degree in Artificial Intelligence, and with my never-
 #### Courses
 [x] [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper) _by École Polytechnique_  
 #### Books
-[_] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) _by Michael Nielsen_  
+[ ] [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/book/show/11667578-reinventing-discovery) _by Michael Nielsen_  
 
 ### Misc
 #### Courses
-[_] [Mountains 101](https://www.coursera.org/learn/mountains-101) _by University of Alberta_  
-[_] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) _by McMaster University & University of California San Diego_  
+[ ] [Mountains 101](https://www.coursera.org/learn/mountains-101) _by University of Alberta_  
+[ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) _by McMaster University & University of California San Diego_  
 #### Books
 [x] [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm) _by Jason Fried and David Heinemeier Hansson_  
