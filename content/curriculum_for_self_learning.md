@@ -31,6 +31,7 @@ Courses:<br/>
 ### Artificial Intelligence
 Courses:<br/>
 [x] [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome) by _deeplearning.ai_<br/>
+[ ] [Intro to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229) by _Udacity_<br/>
 [ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) by _deeplearning.ai_<br/>
 [ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) by _deeplearning.ai_<br/>
 [ ] [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) by _deeplearning.ai_<br/>
