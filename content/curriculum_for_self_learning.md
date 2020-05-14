@@ -4,7 +4,7 @@ Tags: self-learning, computer-science, programming, ai
 Category: learning
 Slug: self-learning-curriculum
 Authors: choutos
-Summary: My strategy for self-learning
+Summary: How I design my own curriculum for Self-Learning. My simple strategy to keep track of everything and always have something ready to work on.
 
 
 After deciding to pursue a degree in Artificial Intelligence, and with my never-ending list of things I would like to learn, I resolved to teach myself using online resources. This is a first draft of the courses and resources I plan to use, it includes a variety of subjecs from basic to advance to get started in a myriad of topics.
